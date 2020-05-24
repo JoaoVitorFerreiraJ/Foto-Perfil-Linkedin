@@ -1,0 +1,87 @@
+.profile-container{
+    background: #1b1b1b;
+    width: 100vw;
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+    display: flex;
+
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.react {
+    background: #1d508a;
+    width: 230px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.react img {
+    width: 170px;
+}
+
+.node {
+    background: #236938;
+    width: 230px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.node img {
+    width: 170px;
+}
+
+.typescript {
+    background: #007acc;
+    width: 230px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.typescript img {
+    
+    height: 150px;
+    border-radius: 30%;
+    justify-items: center;
+    margin-bottom: 20%;
+    margin-right: 10%;
+}
+
+.redux {
+    background: #492a83;
+    width: 230px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redux img {
+    width: 120px;
+    height: 115px;
+}
+
+.hooks {
+    background: #1f3194;
+    width: 230px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hooks img {
+    width: 170px;
+    height: 120px;
+    border-radius: 30%;
+}
